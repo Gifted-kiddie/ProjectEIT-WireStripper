@@ -1,0 +1,17 @@
+----- Where to buy all used component -----
+
+Motor Drivers x2 : https://www.amazon.fr/gp/product/B07DK6Q8F9/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+
+Arduino nano : https://www.amazon.fr/APKLVSR-Contrôleur-Développement-Compatible-Arduino/dp/B09JK5G83L/ref=sr_1_9?keywords=arduino+nano&qid=1651995922&sprefix=arduino%2Caps%2C73&sr=8-9
+
+Stepper motors x2 : https://www.amazon.fr/Stepper-Quimat-Bipolar-Mounting-Bracket/dp/B06XRC93SZ/ref=sr_1_8?__mk_fr_FR=ÅMÅŽÕÑ&crid=1TC7744I5ZDJR&keywords=nema%2B17%2Bstepper%2Bmotor%2B2A&qid=1651995974&sprefix=nema%2B17%2Bstepper%2Bmotor%2B2a%2Caps%2C173&sr=8-8&th=1
+
+Servo motor : https://www.amazon.fr/AZDelivery-SG90-Micro-Moteur-Robots-hubchrauber/dp/B07CYZSVKW/ref=sr_1_15?__mk_fr_FR=ÅMÅŽÕÑ&crid=34I9QQEZWH6WE&keywords=servo&qid=1651996102&sprefix=servo%2Caps%2C74&sr=8-15&th=1
+
+Extruder : https://www.amazon.fr/Creality-imprimante-extrudeuses-accessoires-imprimantes/dp/B092HKZMQM/ref=sr_1_5?__mk_fr_FR=ÅMÅŽÕÑ&crid=W4XIW2K2IJ6U&keywords=extruder&qid=1651996129&sprefix=extruder%2Caps%2C80&sr=8-5&th=1
+
+Jack power connector : https://www.amazon.fr/FULARR®-Professionnel-Connecteur-Adaptateur-Broches/dp/B07MF69TMX/ref=sr_1_11?keywords=jack+power+connector&qid=1651996153&sprefix=jack+power%2Caps%2C72&sr=8-11
+
+Nylon cable : https://www.amazon.fr/Transparent-Solide-Suspendu-Manchon-Boucle/dp/B08B8NZ88T/ref=sr_1_9?__mk_fr_FR=ÅMÅŽÕÑ&crid=NFGR87RNR2ML&keywords=nylon%2Bwire&qid=1651996192&sprefix=nylon%2Bwire%2Caps%2C57&sr=8-9&th=1
+
+Stripper : https://www.amazon.fr/QWORK-dénuder-optique-poignée-fibres/dp/B088B56VXM/ref=sr_1_34?__mk_fr_FR=ÅMÅŽÕÑ&crid=27C6LENHU2JJU&keywords=pince+à+dénuder&qid=1652708252&sprefix=pince+à+dénuder%2Caps%2C70&sr=8-34
