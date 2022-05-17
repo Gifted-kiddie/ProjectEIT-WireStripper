@@ -40,7 +40,7 @@ void loop(){
   Serial.print("code started");
   Serial.print("\n");
   int stepNeeded = (int) lengthToRev(L); // Compute the needed step from the wanted length
-  for(int i=1;i<=N;i++){ // Loop N times to have N cables
+  for(int i=1;i<=N+1;i++){ // Loop N times to have N cables
     Serial.print("Cable ");
     Serial.print(i);
     Serial.print("\n");
